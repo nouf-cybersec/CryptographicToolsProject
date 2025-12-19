@@ -26,8 +26,3 @@ Users can select a cipher method, enter text, and view the encryption or decrypt
 ## Purpose
 This project was developed for educational purposes to demonstrate basic cryptographic techniques and JavaFX application development.
 
-## How to Run
-1. Ensure Java and JavaFX are installed.
-2. Compile the program:
-   ```bash
-   javac CryptographicTools.java
